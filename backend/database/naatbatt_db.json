@@ -1,0 +1,274 @@
+[
+  {
+    "company": "Tesla",
+    "facility": "Gigafactory Nevada",
+    "location": "Sparks, NV",
+    "segment": "Midstream (Cell & Pack Manufacturing)",
+    "details": "Joint venture with Panasonic producing cylindrical 2170 cells and battery packs.",
+    "naatbatt_id": "NB-001"
+  },
+  {
+    "company": "Tesla",
+    "facility": "Gigafactory Texas",
+    "location": "Austin, TX",
+    "segment": "Midstream (Cell & Pack Manufacturing)",
+    "details": "Produces Tesla 4680 cylindrical cells and structural battery packs.",
+    "naatbatt_id": "NB-002"
+  },
+  {
+    "company": "Panasonic Energy of North America",
+    "facility": "Kansas Plant",
+    "location": "De Soto, KS",
+    "segment": "Midstream (Cell Manufacturing)",
+    "details": "Under-construction large-scale cylindrical cell manufacturing plant.",
+    "naatbatt_id": "NB-003"
+  },
+  {
+    "company": "Albemarle Corporation",
+    "facility": "Kings Mountain Lithium Site",
+    "location": "Kings Mountain, NC",
+    "segment": "Upstream (Raw Materials & Processing)",
+    "details": "Spodumene mining and lithium hydroxide/carbonate chemical processing plant.",
+    "naatbatt_id": "NB-004"
+  },
+  {
+    "company": "Albemarle Corporation",
+    "facility": "Silver Peak Mine",
+    "location": "Silver Peak, NV",
+    "segment": "Upstream (Raw Materials & Processing)",
+    "details": "The only active lithium brine extraction and processing facility in North America.",
+    "naatbatt_id": "NB-005"
+  },
+  {
+    "company": "Redwood Materials",
+    "facility": "Nevada Battery Campus",
+    "location": "Carson City, NV",
+    "segment": "Downstream (Recycling & Material Refining)",
+    "details": "Processes end-of-life batteries and manufacturing scrap; refining into anode copper foil and cathode precursor.",
+    "naatbatt_id": "NB-006"
+  },
+  {
+    "company": "Redwood Materials",
+    "facility": "South Carolina Campus",
+    "location": "Charleston, SC",
+    "segment": "Downstream (Recycling & Material Refining)",
+    "details": "Battery recycling facility and manufacturing site for anode and cathode active materials.",
+    "naatbatt_id": "NB-007"
+  },
+  {
+    "company": "Li-Cycle",
+    "facility": "Rochester Hub",
+    "location": "Rochester, NY",
+    "segment": "Downstream (Recycling & Hydrometallurgical Refining)",
+    "details": "Hydrometallurgical facility processing black mass into battery-grade lithium carbonate, nickel, and cobalt sulfates.",
+    "naatbatt_id": "NB-008"
+  },
+  {
+    "company": "Li-Cycle",
+    "facility": "Arizona Spoke",
+    "location": "Gilbert, AZ",
+    "segment": "Downstream (Recycling - Spoke)",
+    "details": "Spoke facility designed to shred end-of-life lithium-ion batteries and manufacturing scrap into black mass.",
+    "naatbatt_id": "NB-009"
+  },
+  {
+    "company": "Solid Power",
+    "facility": "Colorado Headquarters & R&D",
+    "location": "Louisville, CO",
+    "segment": "Support & R&D (Solid-State Technology)",
+    "details": "Developer and pilot producer of sulfide-based solid electrolyte materials and solid-state cells.",
+    "naatbatt_id": "NB-010"
+  },
+  {
+    "company": "QuantumScape",
+    "facility": "QS-0 Pilot Line",
+    "location": "San Jose, CA",
+    "segment": "Support & R&D (Solid-State Technology)",
+    "details": "Pilot-scale facility manufacturing solid-state lithium-metal battery cells and separators.",
+    "naatbatt_id": "NB-011"
+  },
+  {
+    "company": "KORE Power",
+    "facility": "KORE Plex",
+    "location": "Buckeye, AZ",
+    "segment": "Midstream (Cell & Module Manufacturing)",
+    "details": "Gigafactory producing NMC and LFP battery cells for energy storage and mobility markets.",
+    "naatbatt_id": "NB-012"
+  },
+  {
+    "company": "Piedmont Lithium",
+    "facility": "Carolina Lithium Project",
+    "location": "Cherryville, NC",
+    "segment": "Upstream (Raw Materials & Processing)",
+    "details": "Proposed integrated lithium hydroxide manufacturing and spodumene mining operation.",
+    "naatbatt_id": "NB-013"
+  },
+  {
+    "company": "Arcadium Lithium (Livent)",
+    "facility": "Bessemer City Chemical Plant",
+    "location": "Bessemer City, NC",
+    "segment": "Upstream (Raw Materials & Processing)",
+    "details": "Converts lithium carbonate into battery-grade lithium hydroxide and lithium metal.",
+    "naatbatt_id": "NB-014"
+  },
+  {
+    "company": "Syrah Resources",
+    "facility": "Vidalia Anode Plant",
+    "location": "Vidalia, LA",
+    "segment": "Midstream (Anode Material Processing)",
+    "details": "Active anode material facility producing active anode material (AAM) from imported natural graphite.",
+    "naatbatt_id": "NB-015"
+  },
+  {
+    "company": "Celgard",
+    "facility": "Charlotte Separator Facility",
+    "location": "Charlotte, NC",
+    "segment": "Midstream (Separator Manufacturing)",
+    "details": "Developer and manufacturer of dry-process microporous membrane separators for lithium batteries.",
+    "naatbatt_id": "NB-016"
+  },
+  {
+    "company": "Group14 Technologies",
+    "facility": "BAM-1 Pilot & BAM-2 Factory",
+    "location": "Moses Lake, WA",
+    "segment": "Midstream (Anode Material Processing)",
+    "details": "Commercial-scale facility producing SCC55, a high-capacity silicon-carbon composite anode material.",
+    "naatbatt_id": "NB-017"
+  },
+  {
+    "company": "Sila Nanotechnologies",
+    "facility": "Moses Lake Facility",
+    "location": "Moses Lake, WA",
+    "segment": "Midstream (Anode Material Processing)",
+    "details": "Commercial plant for the production of Titan Silicon, a high-energy silicon anode material.",
+    "naatbatt_id": "NB-018"
+  },
+  {
+    "company": "Ascend Elements",
+    "facility": "Apex 1",
+    "location": "Hopkinsville, KY",
+    "segment": "Downstream (Recycling & Cathode Precursor)",
+    "details": "Commercial facility recycling scrap into engineered cathode active materials (CAM) and precursors (pCAM) using Hydro-to-Cathode technology.",
+    "naatbatt_id": "NB-019"
+  },
+  {
+    "company": "Microvast",
+    "facility": "Clarksville Factory",
+    "location": "Clarksville, TN",
+    "segment": "Midstream (Cell & Component Manufacturing)",
+    "details": "Produces lithium-ion cell components, cells, and modules for commercial EVs and grid storage.",
+    "naatbatt_id": "NB-020"
+  },
+  {
+    "company": "Ultium Cells (GM & LG Energy Solution)",
+    "facility": "Ultium Plant 1",
+    "location": "Warren, OH",
+    "segment": "Midstream (Cell Manufacturing)",
+    "details": "Joint venture plant manufacturing large pouch cells for GM's Ultium EV platform.",
+    "naatbatt_id": "NB-021"
+  },
+  {
+    "company": "Ultium Cells (GM & LG Energy Solution)",
+    "facility": "Ultium Plant 2",
+    "location": "Spring Hill, TN",
+    "segment": "Midstream (Cell Manufacturing)",
+    "details": "Massive battery cell manufacturing site supporting EV rollouts.",
+    "naatbatt_id": "NB-022"
+  },
+  {
+    "company": "BlueOval SK (Ford & SK On)",
+    "facility": "BlueOval SK Battery Park",
+    "location": "Glendale, KY",
+    "segment": "Midstream (Cell Manufacturing)",
+    "details": "Under-construction twin gigafactories for high-volume EV battery cell production.",
+    "naatbatt_id": "NB-023"
+  },
+  {
+    "company": "Electrovaya",
+    "facility": "Jamestown Gigafactory",
+    "location": "Jamestown, NY",
+    "segment": "Midstream (Cell & Pack Manufacturing)",
+    "details": "Produces heavy-duty NMC lithium-ion cells and battery systems for material handling and e-mobility.",
+    "naatbatt_id": "NB-024"
+  },
+  {
+    "company": "Anovion",
+    "facility": "Alabama Graphitizing Facility",
+    "location": "Decatur, AL",
+    "segment": "Midstream (Anode Material Processing)",
+    "details": "Manufacturer of synthetic graphite anode materials for lithium-ion batteries.",
+    "naatbatt_id": "NB-025"
+  },
+  {
+    "company": "Compass Minerals",
+    "facility": "Great Salt Lake Operations",
+    "location": "Ogden, UT",
+    "segment": "Upstream (Raw Materials & Processing)",
+    "details": "Lithium brine resource extraction project based on potassium solar evaporation ponds.",
+    "naatbatt_id": "NB-026"
+  },
+  {
+    "company": "NOVONIX",
+    "facility": "Riverside Anode Material Plant",
+    "location": "Chattanooga, TN",
+    "segment": "Midstream (Anode Material Processing)",
+    "details": "Produces synthetic graphite anode material and provides specialized battery testing services.",
+    "naatbatt_id": "NB-027"
+  },
+  {
+    "company": "Our Next Energy (ONE)",
+    "facility": "ONE Circle Gigafactory",
+    "location": "Van Buren Township, MI",
+    "segment": "Midstream (Cell & Pack Manufacturing)",
+    "details": "Produces LFP cell and long-range hybrid battery systems (Aries and Gemini).",
+    "naatbatt_id": "NB-028"
+  },
+  {
+    "company": "Factorial Energy",
+    "facility": "Boston Development Center",
+    "location": "Woburn, MA",
+    "segment": "Support & R&D (Solid-State Technology)",
+    "details": "R&D and pilot manufacturing line for proprietary Factorial Electrolyte System (FEST) solid-state cells.",
+    "naatbatt_id": "NB-029"
+  },
+  {
+    "company": "Lyten",
+    "facility": "Lyten 3D Graphene Lab",
+    "location": "San Jose, CA",
+    "segment": "Support & R&D (Lithium-Sulfur Technology)",
+    "details": "Pilot production facility for lithium-sulfur battery cells using 3D Graphene materials.",
+    "naatbatt_id": "NB-030"
+  },
+  {
+    "company": "Mitra Chem",
+    "facility": "R&D Facility",
+    "location": "Mountain View, CA",
+    "segment": "Support & R&D (Cathode Development)",
+    "details": "Uses AI and simulation to rapidly develop and synthesize LFP and LMFP cathode active materials.",
+    "naatbatt_id": "NB-031"
+  },
+  {
+    "company": "NanoGraf Corporation",
+    "facility": "Chicago Plant",
+    "location": "Chicago, IL",
+    "segment": "Midstream (Anode Material Processing)",
+    "details": "Commercial production facility for silicon-alloy anode materials for military and high-performance applications.",
+    "naatbatt_id": "NB-032"
+  },
+  {
+    "company": "Forge Nano",
+    "facility": "Colorado Facility",
+    "location": "Thornton, CO",
+    "segment": "Support & R&D (Surface Coatings)",
+    "details": "Provides atomic layer deposition (ALD) equipment and coatings for battery electrode materials to improve cycle life.",
+    "naatbatt_id": "NB-033"
+  },
+  {
+    "company": "Dragonfly Energy",
+    "facility": "Reno Facility",
+    "location": "Reno, NV",
+    "segment": "Midstream (Cell & Pack Manufacturing)",
+    "details": "Manufacturer of deep-cycle lithium iron phosphate (LFP) batteries and developer of solid-state dry-deposition tech.",
+    "naatbatt_id": "NB-034"
+  }
+]

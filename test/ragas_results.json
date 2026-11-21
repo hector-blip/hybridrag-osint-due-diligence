@@ -1,0 +1,22 @@
+{
+  "C1_VectorRAG": {
+    "faithfulness": 0.8065954851248969,
+    "answer_relevancy": 0.7986409967048889,
+    "llm_context_precision_without_reference": 0.7979166666394966
+  },
+  "C2_GraphRAG": {
+    "faithfulness": 0.8716666666666666,
+    "answer_relevancy": 0.031398505598644585,
+    "llm_context_precision_without_reference": 0.16666666665166666
+  },
+  "C3_Hybrid_noHITL": {
+    "faithfulness": 0.770718954248366,
+    "answer_relevancy": 0.6313458701639038,
+    "llm_context_precision_without_reference": 0.6499999999690278
+  },
+  "C4_Hybrid_HITL": {
+    "faithfulness": 0.7752847152847153,
+    "answer_relevancy": 0.6592394567757539,
+    "llm_context_precision_without_reference": 0.699999999967639
+  }
+}

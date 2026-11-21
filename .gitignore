@@ -1,0 +1,30 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Données brutes, intermédiaires ou soumises à des droits
+*.xlsx
+*.xls
+!exemple_import_wos.xlsx
+test/*.pkl
+test/*.bin
+test/triplets_*.csv
+wos_test_export.txt
+
+# Notes personnelles
+explication*.txt
+bilan_technique_complet.txt
+
+# Divers
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
